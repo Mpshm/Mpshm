@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Mpshm
-- 🌱 I’m currently learning Python, Java, C++
-- 📫 How to reach me [parsasheini87@gmail.com]
+∫ Hey - It's Mp :) 
+∫ I know Py an C++ and I'm learning Java and Js 
+∫ + I'm intrested in py and Data-Science.
+∫ Currently working on a project with Rep2 team. 
 
 <!---
 Mpshm/Mpshm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
