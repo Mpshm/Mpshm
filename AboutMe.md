@@ -1,6 +1,6 @@
-- ∫ Hey It's Mp :) 
-- ∫ I know Py an C++ and I'm learning Java and Js 
-- ∫ + I'm intrested in py and Data-Science.
+- ∫ Hey dude It's Mp :) 
+- ∫ I know Py an C++ and I'm learning Java and Django. 
+- ∫ I'm also intrested in Data-Science and DiscordBots with py.
 - ∫ Currently working on a project with Rep2 team. 
 
 <!---
